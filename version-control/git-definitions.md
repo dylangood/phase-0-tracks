@@ -1,4 +1,5 @@
 # Git Definitions
+### Or: How to Make Minor Changes with Maximum Effort!
 
 **Instructions:** *Define each of the following Git concepts.*
 
